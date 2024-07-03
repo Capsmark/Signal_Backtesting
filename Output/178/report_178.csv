@@ -1,5 +1,5 @@
 Scenario,Period,Total Trades,Total Wins,Total Losses,Win Rate,ROI,NAV,Max Drawdown,,,
-"TP=0.0095, SL=0.0162, Method=percentage_change, pctChange=0.0002",2024-01,38,29,9,0.763157895,13.56506116,113565.0612,685.39,,,0.020%
+"TP=0.0095, SL=0.0162, Method=percentage_change, pctChange=0.0002",2024-01,38,29,9,0.763157895,13.56506116,113565.0612,685.39,,,0.02%
 "TP=0.0095, SL=0.0162, Method=percentage_change, pctChange=0.0002",2024-02,26,18,8,0.692307692,4.032339433,118144.3899,0,,,
 "TP=0.0095, SL=0.0162, Method=percentage_change, pctChange=0.0002",2024-03,45,25,20,0.555555556,-8.631931009,107946.2477,316624.617,,,
 "TP=0.0095, SL=0.0162, Method=percentage_change, pctChange=0.0002",2024-04,37,26,11,0.702702703,6.841359543,115331.2386,1385.574552,,,
