@@ -1,0 +1,390 @@
+Date,Time,Cur.,Imp.,Event,Actual,Forecast,Previous,Datetime
+"Monday, July 1, 2024",13:45,USD,,S&P Global US Manufacturing PMI (Jun),51.6,51.7,51.3,2024-07-01 13:45:00
+"Monday, July 1, 2024",14:00,USD,,Construction Spending (MoM) (May),-0.10%,0.30%,0.30%,2024-07-01 14:00:00
+"Monday, July 1, 2024",14:00,USD,,ISM Manufacturing Employment (Jun),49.3,50,51.1,2024-07-01 14:00:00
+"Monday, July 1, 2024",14:00,USD,,ISM Manufacturing New Orders Index (Jun),49.3,49,45.4,2024-07-01 14:00:00
+"Monday, July 1, 2024",14:00,USD,,ISM Manufacturing PMI (Jun),48.5,49.2,48.7,2024-07-01 14:00:00
+"Monday, July 1, 2024",14:00,USD,,ISM Manufacturing Prices (Jun),52.1,55.8,57,2024-07-01 14:00:00
+"Monday, July 1, 2024",15:30,USD,,3-Month Bill Auction,5.24%,,5.24%,2024-07-01 15:30:00
+"Monday, July 1, 2024",15:30,USD,,6-Month Bill Auction,5.12%,,5.14%,2024-07-01 15:30:00
+"Monday, July 1, 2024",16:00,USD,,Atlanta Fed GDPNow (Q2),1.70%,2.20%,2.20%,2024-07-01 16:00:00
+"Tuesday, July 2, 2024",12:55,USD,,Redbook (YoY),5.80%,,5.30%,2024-07-02 12:55:00
+"Tuesday, July 2, 2024",13:30,USD,,Fed Chair Powell Speaks,,,,2024-07-02 13:30:00
+"Tuesday, July 2, 2024",14:00,USD,,JOLTs Job Openings (May),8.140M,7.960M,7.919M,2024-07-02 14:00:00
+"Tuesday, July 2, 2024",14:10,USD,,IBD/TIPP Economic Optimism,44.2,41.2,40.5,2024-07-02 14:10:00
+"Tuesday, July 2, 2024",20:30,USD,,API Weekly Crude Oil Stock,-9.163M,-0.150M,0.914M,2024-07-02 20:30:00
+"Wednesday, July 3, 2024",11:00,USD,,FOMC Member Williams Speaks,,,,2024-07-03 11:00:00
+"Wednesday, July 3, 2024",11:00,USD,,MBA 30-Year Mortgage Rate,7.03%,,6.93%,2024-07-03 11:00:00
+"Wednesday, July 3, 2024",11:00,USD,,MBA Mortgage Applications (WoW),-2.60%,,0.80%,2024-07-03 11:00:00
+"Wednesday, July 3, 2024",11:00,USD,,MBA Purchase Index,142.9,,147.8,2024-07-03 11:00:00
+"Wednesday, July 3, 2024",11:00,USD,,Mortgage Market Index,206.5,,212,2024-07-03 11:00:00
+"Wednesday, July 3, 2024",11:00,USD,,Mortgage Refinance Index,544.1,,552.4,2024-07-03 11:00:00
+"Wednesday, July 3, 2024",11:30,USD,,Challenger Job Cuts (YoY),19.80%,,-20.30%,2024-07-03 11:30:00
+"Wednesday, July 3, 2024",11:30,USD,,Challenger Job Cuts (Jun),48.786K,,63.816K,2024-07-03 11:30:00
+"Wednesday, July 3, 2024",12:00,USD,,All Car Sales (Jun),2.76M,,3.06M,2024-07-03 12:00:00
+"Wednesday, July 3, 2024",12:00,USD,,All Truck Sales (Jun),12.53M,,12.86M,2024-07-03 12:00:00
+"Wednesday, July 3, 2024",12:15,USD,,ADP Nonfarm Employment Change (Jun),150K,163K,157K,2024-07-03 12:15:00
+"Wednesday, July 3, 2024",12:30,USD,,Continuing Jobless Claims,"1,858K","1,840K","1,832K",2024-07-03 12:30:00
+"Wednesday, July 3, 2024",12:30,USD,,Exports,261.70B,,263.70B,2024-07-03 12:30:00
+"Wednesday, July 3, 2024",12:30,USD,,Imports,336.70B,,338.20B,2024-07-03 12:30:00
+"Wednesday, July 3, 2024",12:30,USD,,Initial Jobless Claims,238K,234K,234K,2024-07-03 12:30:00
+"Wednesday, July 3, 2024",12:30,USD,,Jobless Claims 4-Week Avg.,238.50K,,236.25K,2024-07-03 12:30:00
+"Wednesday, July 3, 2024",12:30,USD,,Trade Balance (May),-75.10B,-76.30B,-74.50B,2024-07-03 12:30:00
+"Wednesday, July 3, 2024",13:45,USD,,S&P Global Composite PMI (Jun),54.8,54.6,54.5,2024-07-03 13:45:00
+"Wednesday, July 3, 2024",13:45,USD,,S&P Global Services PMI (Jun),55.3,55.1,54.8,2024-07-03 13:45:00
+"Wednesday, July 3, 2024",14:00,USD,,4-Week Bill Auction,5.28%,,5.27%,2024-07-03 14:00:00
+"Wednesday, July 3, 2024",14:00,USD,,8-Week Bill Auction,5.28%,,5.26%,2024-07-03 14:00:00
+"Wednesday, July 3, 2024",14:00,USD,,Durables Excluding Defense (MoM) (May),-0.20%,,-0.20%,2024-07-03 14:00:00
+"Wednesday, July 3, 2024",14:00,USD,,Durables Excluding Transport (MoM) (May),-0.10%,,-0.10%,2024-07-03 14:00:00
+"Wednesday, July 3, 2024",14:00,USD,,Factory Orders (MoM) (May),-0.50%,0.20%,0.40%,2024-07-03 14:00:00
+"Wednesday, July 3, 2024",14:00,USD,,Factory orders ex transportation (MoM) (May),-0.70%,0.30%,0.50%,2024-07-03 14:00:00
+"Wednesday, July 3, 2024",14:00,USD,,ISM Non-Manufacturing Business Activity (Jun),49.6,,61.2,2024-07-03 14:00:00
+"Wednesday, July 3, 2024",14:00,USD,,ISM Non-Manufacturing Employment (Jun),46.1,49,47.1,2024-07-03 14:00:00
+"Wednesday, July 3, 2024",14:00,USD,,ISM Non-Manufacturing New Orders (Jun),47.3,53.6,54.1,2024-07-03 14:00:00
+"Wednesday, July 3, 2024",14:00,USD,,ISM Non-Manufacturing PMI (Jun),48.8,52.6,53.8,2024-07-03 14:00:00
+"Wednesday, July 3, 2024",14:00,USD,,ISM Non-Manufacturing Prices (Jun),56.3,56.7,58.1,2024-07-03 14:00:00
+"Wednesday, July 3, 2024",14:30,USD,,Crude Oil Inventories,-12.157M,-0.400M,3.591M,2024-07-03 14:30:00
+"Wednesday, July 3, 2024",14:30,USD,,EIA Refinery Crude Runs (WoW),0.260M,,-0.233M,2024-07-03 14:30:00
+"Wednesday, July 3, 2024",14:30,USD,,Crude Oil Imports,-0.555M,,0.065M,2024-07-03 14:30:00
+"Wednesday, July 3, 2024",14:30,USD,,Cushing Crude Oil Inventories,0.345M,,-0.226M,2024-07-03 14:30:00
+"Wednesday, July 3, 2024",14:30,USD,,Distillate Fuel Production,0.204M,,0.142M,2024-07-03 14:30:00
+"Wednesday, July 3, 2024",14:30,USD,,EIA Weekly Distillates Stocks,-1.535M,-1.100M,-0.377M,2024-07-03 14:30:00
+"Wednesday, July 3, 2024",14:30,USD,,Gasoline Production,0.180M,,-0.289M,2024-07-03 14:30:00
+"Wednesday, July 3, 2024",14:30,USD,,Heating Oil Stockpiles,-0.572M,,0.406M,2024-07-03 14:30:00
+"Wednesday, July 3, 2024",14:30,USD,,EIA Weekly Refinery Utilization Rates (WoW),1.30%,,-1.30%,2024-07-03 14:30:00
+"Wednesday, July 3, 2024",14:30,USD,,Gasoline Inventories,-2.214M,-1.500M,2.654M,2024-07-03 14:30:00
+"Wednesday, July 3, 2024",15:30,USD,,Atlanta Fed GDPNow (Q2),1.50%,1.70%,1.70%,2024-07-03 15:30:00
+"Wednesday, July 3, 2024",16:00,USD,,Natural Gas Storage,32B,29B,52B,2024-07-03 16:00:00
+"Wednesday, July 3, 2024",18:00,USD,,FOMC Meeting Minutes,,,,2024-07-03 18:00:00
+"Friday, July 5, 2024",9:40,USD,,FOMC Member Williams Speaks,,,,2024-07-05 09:40:00
+"Friday, July 5, 2024",12:30,USD,,Average Hourly Earnings (YoY) (YoY) (Jun),3.90%,3.90%,4.10%,2024-07-05 12:30:00
+"Friday, July 5, 2024",12:30,USD,,Average Hourly Earnings (MoM) (Jun),0.30%,0.30%,0.40%,2024-07-05 12:30:00
+"Friday, July 5, 2024",12:30,USD,,Average Weekly Hours (Jun),34.3,34.3,34.3,2024-07-05 12:30:00
+"Friday, July 5, 2024",12:30,USD,,Government Payrolls (Jun),70.0K,,25.0K,2024-07-05 12:30:00
+"Friday, July 5, 2024",12:30,USD,,Manufacturing Payrolls (Jun),-8K,6K,8K,2024-07-05 12:30:00
+"Friday, July 5, 2024",12:30,USD,,Nonfarm Payrolls (Jun),206K,191K,218K,2024-07-05 12:30:00
+"Friday, July 5, 2024",12:30,USD,,Participation Rate (Jun),62.60%,62.60%,62.50%,2024-07-05 12:30:00
+"Friday, July 5, 2024",12:30,USD,,Private Nonfarm Payrolls (Jun),136K,160K,193K,2024-07-05 12:30:00
+"Friday, July 5, 2024",12:30,USD,,U6 Unemployment Rate (Jun),7.40%,,7.40%,2024-07-05 12:30:00
+"Friday, July 5, 2024",12:30,USD,,Unemployment Rate (Jun),4.10%,4.00%,4.00%,2024-07-05 12:30:00
+"Friday, July 5, 2024",15:00,USD,,Fed Monetary Policy Report,,,,2024-07-05 15:00:00
+"Friday, July 5, 2024",17:00,USD,,U.S. Baker Hughes Oil Rig Count,479,,479,2024-07-05 17:00:00
+"Friday, July 5, 2024",17:00,USD,,U.S. Baker Hughes Total Rig Count,585,,581,2024-07-05 17:00:00
+"Friday, July 5, 2024",20:30,USD,,Fed's Balance Sheet,"7,222B",,"7,231B",2024-07-05 20:30:00
+"Friday, July 5, 2024",20:30,USD,,Reserve Balances with Federal Reserve Banks,3.322T,,3.269T,2024-07-05 20:30:00
+"Monday, July 8, 2024",14:00,USD,,CB Employment Trends Index (Jun),110.27,,111.04,2024-07-08 14:00:00
+"Monday, July 8, 2024",14:00,USD,,Total Vehicle Sales (Jun),15.30M,,15.90M,2024-07-08 14:00:00
+"Monday, July 8, 2024",15:00,USD,,NY Fed 1-Year Consumer Inflation Expectations,3.00%,,3.20%,2024-07-08 15:00:00
+"Monday, July 8, 2024",15:30,USD,,3-Month Bill Auction,5.23%,,5.24%,2024-07-08 15:30:00
+"Monday, July 8, 2024",15:30,USD,,6-Month Bill Auction,5.08%,,5.12%,2024-07-08 15:30:00
+"Monday, July 8, 2024",19:00,USD,,Consumer Credit (May),11.35B,10.70B,6.49B,2024-07-08 19:00:00
+"Monday, July 8, 2024",19:30,USD,,CFTC Aluminium speculative net positions,2.2K,,2.3K,2024-07-08 19:30:00
+"Monday, July 8, 2024",19:30,USD,,CFTC Copper speculative net positions,49.2K,,50.1K,2024-07-08 19:30:00
+"Monday, July 8, 2024",19:30,USD,,CFTC Corn speculative net positions,-228.7K,,-169.8K,2024-07-08 19:30:00
+"Monday, July 8, 2024",19:30,USD,,CFTC Crude Oil speculative net positions,279.9K,,271.2K,2024-07-08 19:30:00
+"Monday, July 8, 2024",19:30,USD,,CFTC Gold speculative net positions,241.5K,,246.2K,2024-07-08 19:30:00
+"Monday, July 8, 2024",19:30,USD,,CFTC Nasdaq 100 speculative net positions,10.8K,,7.4K,2024-07-08 19:30:00
+"Monday, July 8, 2024",19:30,USD,,CFTC Natural Gas speculative net positions,-90.3K,,-89.3K,2024-07-08 19:30:00
+"Monday, July 8, 2024",19:30,USD,,CFTC S&P 500 speculative net positions,-11.8K,,-65.2K,2024-07-08 19:30:00
+"Monday, July 8, 2024",19:30,USD,,CFTC Silver speculative net positions,55.8K,,56.0K,2024-07-08 19:30:00
+"Monday, July 8, 2024",19:30,USD,,CFTC Soybeans speculative net positions,-122.2K,,-111.2K,2024-07-08 19:30:00
+"Monday, July 8, 2024",19:30,USD,,CFTC Wheat speculative net positions,-38.7K,,-44.5K,2024-07-08 19:30:00
+"Tuesday, July 9, 2024",10:00,USD,,NFIB Small Business Optimism (Jun),91.5,90.3,90.5,2024-07-09 10:00:00
+"Tuesday, July 9, 2024",12:55,USD,,Redbook (YoY),6.30%,,5.80%,2024-07-09 12:55:00
+"Tuesday, July 9, 2024",13:15,USD,,Fed Vice Chair for Supervision Barr Speaks,,,,2024-07-09 13:15:00
+"Tuesday, July 9, 2024",14:00,USD,,Fed Chair Powell Testifies,,,,2024-07-09 14:00:00
+"Tuesday, July 9, 2024",14:00,USD,,Treasury Secretary Yellen Speaks,,,,2024-07-09 14:00:00
+"Tuesday, July 9, 2024",15:30,USD,,52-Week Bill Auction,4.78%,,4.92%,2024-07-09 15:30:00
+"Tuesday, July 9, 2024",16:00,USD,,EIA Short-Term Energy Outlook,,,,2024-07-09 16:00:00
+"Tuesday, July 9, 2024",17:00,USD,,3-Year Note Auction,4.40%,,4.66%,2024-07-09 17:00:00
+"Tuesday, July 9, 2024",17:30,USD,,FOMC Member Bowman Speaks,,,,2024-07-09 17:30:00
+"Tuesday, July 9, 2024",20:30,USD,,API Weekly Crude Oil Stock,-1.923M,-0.250M,-9.163M,2024-07-09 20:30:00
+"Wednesday, July 10, 2024",11:00,USD,,MBA 30-Year Mortgage Rate,7.00%,,7.03%,2024-07-10 11:00:00
+"Wednesday, July 10, 2024",11:00,USD,,MBA Mortgage Applications (WoW),-0.20%,,-2.60%,2024-07-10 11:00:00
+"Wednesday, July 10, 2024",11:00,USD,,MBA Purchase Index,144.3,,142.9,2024-07-10 11:00:00
+"Wednesday, July 10, 2024",11:00,USD,,Mortgage Market Index,206.1,,206.5,2024-07-10 11:00:00
+"Wednesday, July 10, 2024",11:00,USD,,Mortgage Refinance Index,532.3,,544.1,2024-07-10 11:00:00
+"Wednesday, July 10, 2024",11:00,USD,,OPEC Monthly Report,,,,2024-07-10 11:00:00
+"Wednesday, July 10, 2024",14:00,USD,,Fed Chair Powell Testifies,,,,2024-07-10 14:00:00
+"Wednesday, July 10, 2024",14:00,USD,,Wholesale Inventories (MoM) (May),0.60%,0.60%,0.10%,2024-07-10 14:00:00
+"Wednesday, July 10, 2024",14:00,USD,,Wholesale Trade Sales (MoM) (May),0.40%,,0.20%,2024-07-10 14:00:00
+"Wednesday, July 10, 2024",14:30,USD,,Crude Oil Inventories,-3.443M,0.700M,-12.157M,2024-07-10 14:30:00
+"Wednesday, July 10, 2024",14:30,USD,,EIA Refinery Crude Runs (WoW),0.317M,,0.260M,2024-07-10 14:30:00
+"Wednesday, July 10, 2024",14:30,USD,,Crude Oil Imports,0.615M,,-0.555M,2024-07-10 14:30:00
+"Wednesday, July 10, 2024",14:30,USD,,Cushing Crude Oil Inventories,-0.702M,,0.345M,2024-07-10 14:30:00
+"Wednesday, July 10, 2024",14:30,USD,,Distillate Fuel Production,0.022M,,0.204M,2024-07-10 14:30:00
+"Wednesday, July 10, 2024",14:30,USD,,EIA Weekly Distillates Stocks,4.884M,-0.300M,-1.535M,2024-07-10 14:30:00
+"Wednesday, July 10, 2024",14:30,USD,,Gasoline Production,0.239M,,0.180M,2024-07-10 14:30:00
+"Wednesday, July 10, 2024",14:30,USD,,Heating Oil Stockpiles,0.356M,,-0.572M,2024-07-10 14:30:00
+"Wednesday, July 10, 2024",14:30,USD,,EIA Weekly Refinery Utilization Rates (WoW),1.90%,,1.30%,2024-07-10 14:30:00
+"Wednesday, July 10, 2024",14:30,USD,,Gasoline Inventories,-2.006M,-1.900M,-2.214M,2024-07-10 14:30:00
+"Wednesday, July 10, 2024",15:00,USD,,Thomson Reuters IPSOS PCSI (Jul),55.99,,53.82,2024-07-10 15:00:00
+"Wednesday, July 10, 2024",16:00,USD,,Atlanta Fed GDPNow (Q2),2.00%,1.50%,1.50%,2024-07-10 16:00:00
+"Wednesday, July 10, 2024",17:00,USD,,10-Year Note Auction,4.28%,,4.44%,2024-07-10 17:00:00
+"Wednesday, July 10, 2024",18:30,USD,,Fed Goolsbee Speaks,,,,2024-07-10 18:30:00
+"Wednesday, July 10, 2024",18:30,USD,,FOMC Member Bowman Speaks,,,,2024-07-10 18:30:00
+"Wednesday, July 10, 2024",23:30,USD,,Fed Governor Cook Speaks,,,,2024-07-10 23:30:00
+"Thursday, July 11, 2024",9:00,USD,,IEA Monthly Report,,,,2024-07-11 09:00:00
+"Thursday, July 11, 2024",12:30,USD,,Continuing Jobless Claims,"1,852K","1,860K","1,856K",2024-07-11 12:30:00
+"Thursday, July 11, 2024",12:30,USD,,Core CPI (YoY) (Jun),3.30%,3.40%,3.40%,2024-07-11 12:30:00
+"Thursday, July 11, 2024",12:30,USD,,Core CPI (MoM) (Jun),0.10%,0.20%,0.20%,2024-07-11 12:30:00
+"Thursday, July 11, 2024",12:30,USD,,Core CPI Index (Jun),318.35,318.78,318.14,2024-07-11 12:30:00
+"Thursday, July 11, 2024",12:30,USD,,CPI (MoM) (Jun),-0.10%,0.10%,0.00%,2024-07-11 12:30:00
+"Thursday, July 11, 2024",12:30,USD,,CPI (YoY) (Jun),3.00%,3.10%,3.30%,2024-07-11 12:30:00
+"Thursday, July 11, 2024",12:30,USD,,"CPI Index, n.s.a. (Jun)",314.18,314.63,314.07,2024-07-11 12:30:00
+"Thursday, July 11, 2024",12:30,USD,,"CPI Index, s.a (Jun)",313.05,,313.22,2024-07-11 12:30:00
+"Thursday, July 11, 2024",12:30,USD,,"CPI, n.s.a (MoM) (Jun)",0.03%,,0.17%,2024-07-11 12:30:00
+"Thursday, July 11, 2024",12:30,USD,,Initial Jobless Claims,222K,236K,239K,2024-07-11 12:30:00
+"Thursday, July 11, 2024",12:30,USD,,Jobless Claims 4-Week Avg.,233.50K,,238.75K,2024-07-11 12:30:00
+"Thursday, July 11, 2024",12:30,USD,,Real Earnings (MoM) (Jun),0.30%,,0.40%,2024-07-11 12:30:00
+"Thursday, July 11, 2024",14:30,USD,,Natural Gas Storage,65B,56B,32B,2024-07-11 14:30:00
+"Thursday, July 11, 2024",15:00,USD,,Cleveland CPI (MoM) (Jun),0.20%,,0.20%,2024-07-11 15:00:00
+"Thursday, July 11, 2024",15:30,USD,,4-Week Bill Auction,5.27%,,5.28%,2024-07-11 15:30:00
+"Thursday, July 11, 2024",15:30,USD,,8-Week Bill Auction,5.26%,,5.28%,2024-07-11 15:30:00
+"Thursday, July 11, 2024",15:30,USD,,FOMC Member Bostic Speaks,,,,2024-07-11 15:30:00
+"Thursday, July 11, 2024",17:00,USD,,30-Year Bond Auction,4.41%,,4.40%,2024-07-11 17:00:00
+"Thursday, July 11, 2024",18:00,USD,,Federal Budget Balance (Jun),-66.0B,-71.2B,-347.0B,2024-07-11 18:00:00
+"Thursday, July 11, 2024",20:30,USD,,Fed's Balance Sheet,"7,224B",,"7,222B",2024-07-11 20:30:00
+"Thursday, July 11, 2024",20:30,USD,,Reserve Balances with Federal Reserve Banks,3.341T,,3.322T,2024-07-11 20:30:00
+"Friday, July 12, 2024",12:30,USD,,PPI ex. Food/Energy/Transport (MoM) (Jun),0.00%,0.20%,0.20%,2024-07-12 12:30:00
+"Friday, July 12, 2024",12:30,USD,,PPI ex. Food/Energy/Transport (YoY) (Jun),3.10%,,3.30%,2024-07-12 12:30:00
+"Friday, July 12, 2024",12:30,USD,,Core PPI (MoM) (Jun),0.40%,0.20%,0.30%,2024-07-12 12:30:00
+"Friday, July 12, 2024",12:30,USD,,Core PPI (YoY) (Jun),3.00%,2.50%,2.60%,2024-07-12 12:30:00
+"Friday, July 12, 2024",12:30,USD,,PPI (MoM) (Jun),0.20%,0.10%,0.00%,2024-07-12 12:30:00
+"Friday, July 12, 2024",12:30,USD,,PPI (YoY) (Jun),2.60%,2.30%,2.40%,2024-07-12 12:30:00
+"Friday, July 12, 2024",14:00,USD,,Michigan 1-Year Inflation Expectations (Jul),2.90%,2.90%,3.00%,2024-07-12 14:00:00
+"Friday, July 12, 2024",14:00,USD,,Michigan 5-Year Inflation Expectations (Jul),2.90%,3.00%,3.00%,2024-07-12 14:00:00
+"Friday, July 12, 2024",14:00,USD,,Michigan Consumer Expectations (Jul),67.2,69.8,69.6,2024-07-12 14:00:00
+"Friday, July 12, 2024",14:00,USD,,Michigan Consumer Sentiment (Jul),66,68.5,68.2,2024-07-12 14:00:00
+"Friday, July 12, 2024",14:00,USD,,Michigan Current Conditions (Jul),64.1,66.3,65.9,2024-07-12 14:00:00
+"Friday, July 12, 2024",16:00,USD,,WASDE Report,,,,2024-07-12 16:00:00
+"Friday, July 12, 2024",17:00,USD,,U.S. Baker Hughes Oil Rig Count,478,,479,2024-07-12 17:00:00
+"Friday, July 12, 2024",17:00,USD,,U.S. Baker Hughes Total Rig Count,584,,585,2024-07-12 17:00:00
+"Friday, July 12, 2024",19:30,USD,,CFTC Aluminium speculative net positions,2.2K,,2.2K,2024-07-12 19:30:00
+"Friday, July 12, 2024",19:30,USD,,CFTC Copper speculative net positions,56.0K,,49.2K,2024-07-12 19:30:00
+"Friday, July 12, 2024",19:30,USD,,CFTC Corn speculative net positions,-239.9K,,-228.7K,2024-07-12 19:30:00
+"Friday, July 12, 2024",19:30,USD,,CFTC Crude Oil speculative net positions,283.9K,,279.9K,2024-07-12 19:30:00
+"Friday, July 12, 2024",19:30,USD,,CFTC Gold speculative net positions,254.8K,,241.5K,2024-07-12 19:30:00
+"Friday, July 12, 2024",19:30,USD,,CFTC Nasdaq 100 speculative net positions,5.2K,,10.8K,2024-07-12 19:30:00
+"Friday, July 12, 2024",19:30,USD,,CFTC Natural Gas speculative net positions,-105.5K,,-90.3K,2024-07-12 19:30:00
+"Friday, July 12, 2024",19:30,USD,,CFTC S&P 500 speculative net positions,-55.0K,,-11.8K,2024-07-12 19:30:00
+"Friday, July 12, 2024",19:30,USD,,CFTC Silver speculative net positions,61.1K,,55.8K,2024-07-12 19:30:00
+"Friday, July 12, 2024",19:30,USD,,CFTC Soybeans speculative net positions,-150.2K,,-122.2K,2024-07-12 19:30:00
+"Friday, July 12, 2024",19:30,USD,,CFTC Wheat speculative net positions,-34.8K,,-38.7K,2024-07-12 19:30:00
+"Monday, July 15, 2024",12:30,USD,,NY Empire State Manufacturing Index (Jul),-6.6,-5.5,-6,2024-07-15 12:30:00
+"Monday, July 15, 2024",15:30,USD,,3-Month Bill Auction,5.20%,,5.23%,2024-07-15 15:30:00
+"Monday, July 15, 2024",15:30,USD,,6-Month Bill Auction,4.99%,,5.08%,2024-07-15 15:30:00
+"Monday, July 15, 2024",16:30,USD,,Fed Chair Powell Speaks,,,,2024-07-15 16:30:00
+"Monday, July 15, 2024",20:35,USD,,FOMC Member Daly Speaks,,,,2024-07-15 20:35:00
+"Tuesday, July 16, 2024",12:30,USD,,Core Retail Sales (MoM) (Jun),0.40%,0.10%,0.10%,2024-07-16 12:30:00
+"Tuesday, July 16, 2024",12:30,USD,,Export Price Index (YoY) (Jun),0.70%,1.00%,0.50%,2024-07-16 12:30:00
+"Tuesday, July 16, 2024",12:30,USD,,Export Price Index (MoM) (Jun),-0.50%,-0.10%,-0.70%,2024-07-16 12:30:00
+"Tuesday, July 16, 2024",12:30,USD,,Import Price Index (MoM) (Jun),0.00%,0.20%,-0.20%,2024-07-16 12:30:00
+"Tuesday, July 16, 2024",12:30,USD,,Import Price Index (YoY) (Jun),1.60%,1.00%,1.40%,2024-07-16 12:30:00
+"Tuesday, July 16, 2024",12:30,USD,,Retail Control (MoM) (Jun),0.90%,0.20%,0.40%,2024-07-16 12:30:00
+"Tuesday, July 16, 2024",12:30,USD,,Retail Sales (MoM) (Jun),0.00%,-0.30%,0.30%,2024-07-16 12:30:00
+"Tuesday, July 16, 2024",12:30,USD,,Retail Sales (YoY) (Jun),2.28%,,2.59%,2024-07-16 12:30:00
+"Tuesday, July 16, 2024",12:30,USD,,Retail Sales Ex Gas/Autos (MoM) (Jun),0.80%,0.20%,0.30%,2024-07-16 12:30:00
+"Tuesday, July 16, 2024",12:55,USD,,Redbook (YoY),4.80%,,6.30%,2024-07-16 12:55:00
+"Tuesday, July 16, 2024",14:00,USD,,Business Inventories (MoM) (May),0.50%,0.40%,0.30%,2024-07-16 14:00:00
+"Tuesday, July 16, 2024",14:00,USD,,NAHB Housing Market Index (Jul),42,43,43,2024-07-16 14:00:00
+"Tuesday, July 16, 2024",14:00,USD,,Retail Inventories Ex Auto (May),0.00%,0.00%,0.30%,2024-07-16 14:00:00
+"Tuesday, July 16, 2024",16:00,USD,,Atlanta Fed GDPNow (Q2),2.50%,2.00%,2.00%,2024-07-16 16:00:00
+"Tuesday, July 16, 2024",20:30,USD,,API Weekly Crude Oil Stock,-4.440M,,-1.923M,2024-07-16 20:30:00
+"Wednesday, July 17, 2024",11:00,USD,,MBA 30-Year Mortgage Rate,6.87%,,7.00%,2024-07-17 11:00:00
+"Wednesday, July 17, 2024",11:00,USD,,MBA Mortgage Applications (WoW),3.90%,,-0.20%,2024-07-17 11:00:00
+"Wednesday, July 17, 2024",11:00,USD,,MBA Purchase Index,140.4,,144.3,2024-07-17 11:00:00
+"Wednesday, July 17, 2024",11:00,USD,,Mortgage Market Index,214.1,,206.1,2024-07-17 11:00:00
+"Wednesday, July 17, 2024",11:00,USD,,Mortgage Refinance Index,613,,532.3,2024-07-17 11:00:00
+"Wednesday, July 17, 2024",12:30,USD,,Building Permits (MoM) (Jun),3.40%,,-2.80%,2024-07-17 12:30:00
+"Wednesday, July 17, 2024",12:30,USD,,Building Permits (Jun),1.446M,1.400M,1.399M,2024-07-17 12:30:00
+"Wednesday, July 17, 2024",12:30,USD,,Housing Starts (MoM) (Jun),3.00%,,-4.60%,2024-07-17 12:30:00
+"Wednesday, July 17, 2024",12:30,USD,,Housing Starts (MoM) (Jun),3.00%,,-4.60%,2024-07-17 12:30:00
+"Wednesday, July 17, 2024",13:00,USD,,FOMC Member Barkin Speaks,,,,2024-07-17 13:00:00
+"Wednesday, July 17, 2024",13:15,USD,,Capacity Utilization Rate (Jun),78.80%,78.50%,78.30%,2024-07-17 13:15:00
+"Wednesday, July 17, 2024",13:15,USD,,Industrial Production (YoY) (Jun),1.58%,,0.34%,2024-07-17 13:15:00
+"Wednesday, July 17, 2024",13:15,USD,,Industrial Production (MoM) (Jun),0.60%,0.30%,0.90%,2024-07-17 13:15:00
+"Wednesday, July 17, 2024",13:15,USD,,Manufacturing Production (MoM) (Jun),0.40%,0.20%,1.00%,2024-07-17 13:15:00
+"Wednesday, July 17, 2024",13:35,USD,,Fed Waller Speaks,,,,2024-07-17 13:35:00
+"Wednesday, July 17, 2024",14:30,USD,,Crude Oil Inventories,-4.870M,-0.900M,-3.443M,2024-07-17 14:30:00
+"Wednesday, July 17, 2024",14:30,USD,,EIA Refinery Crude Runs (WoW),-0.181M,,0.317M,2024-07-17 14:30:00
+"Wednesday, July 17, 2024",14:30,USD,,Crude Oil Imports,0.312M,,0.615M,2024-07-17 14:30:00
+"Wednesday, July 17, 2024",14:30,USD,,Cushing Crude Oil Inventories,-0.875M,,-0.702M,2024-07-17 14:30:00
+"Wednesday, July 17, 2024",14:30,USD,,Distillate Fuel Production,0.101M,,0.022M,2024-07-17 14:30:00
+"Wednesday, July 17, 2024",14:30,USD,,EIA Weekly Distillates Stocks,3.454M,-0.500M,4.884M,2024-07-17 14:30:00
+"Wednesday, July 17, 2024",14:30,USD,,Gasoline Production,-0.751M,,0.239M,2024-07-17 14:30:00
+"Wednesday, July 17, 2024",14:30,USD,,Heating Oil Stockpiles,0.252M,,0.356M,2024-07-17 14:30:00
+"Wednesday, July 17, 2024",14:30,USD,,EIA Weekly Refinery Utilization Rates (WoW),-1.70%,,1.90%,2024-07-17 14:30:00
+"Wednesday, July 17, 2024",14:30,USD,,Gasoline Inventories,3.328M,-1.700M,-2.006M,2024-07-17 14:30:00
+"Wednesday, July 17, 2024",15:00,USD,,Atlanta Fed GDPNow (Q2),2.70%,2.50%,2.50%,2024-07-17 15:00:00
+"Wednesday, July 17, 2024",17:00,USD,,20-Year Bond Auction,4.47%,,4.45%,2024-07-17 17:00:00
+"Wednesday, July 17, 2024",18:00,USD,,Beige Book,,,,2024-07-17 18:00:00
+"Thursday, July 18, 2024",12:30,USD,,Continuing Jobless Claims,"1,867K","1,860K","1,847K",2024-07-18 12:30:00
+"Thursday, July 18, 2024",12:30,USD,,Initial Jobless Claims,243K,229K,223K,2024-07-18 12:30:00
+"Thursday, July 18, 2024",12:30,USD,,Jobless Claims 4-Week Avg.,234.75K,,233.75K,2024-07-18 12:30:00
+"Thursday, July 18, 2024",12:30,USD,,Philadelphia Fed Manufacturing Index (Jul),13.9,2.7,1.3,2024-07-18 12:30:00
+"Thursday, July 18, 2024",12:30,USD,,Philly Fed Business Conditions (Jul),38.7,,13.8,2024-07-18 12:30:00
+"Thursday, July 18, 2024",12:30,USD,,Philly Fed CAPEX Index (Jul),7.4,,12.1,2024-07-18 12:30:00
+"Thursday, July 18, 2024",12:30,USD,,Philly Fed Employment (Jul),15.2,,-2.5,2024-07-18 12:30:00
+"Thursday, July 18, 2024",12:30,USD,,Philly Fed New Orders (Jul),20.7,,-2.2,2024-07-18 12:30:00
+"Thursday, July 18, 2024",12:30,USD,,Philly Fed Prices Paid (Jul),19.8,,22.5,2024-07-18 12:30:00
+"Thursday, July 18, 2024",14:00,USD,,US Leading Index (MoM) (Jun),-0.20%,-0.30%,-0.40%,2024-07-18 14:00:00
+"Thursday, July 18, 2024",14:30,USD,,Natural Gas Storage,10B,27B,65B,2024-07-18 14:30:00
+"Thursday, July 18, 2024",15:30,USD,,4-Week Bill Auction,5.27%,,5.27%,2024-07-18 15:30:00
+"Thursday, July 18, 2024",15:30,USD,,8-Week Bill Auction,5.26%,,5.26%,2024-07-18 15:30:00
+"Thursday, July 18, 2024",17:00,USD,,10-Year TIPS Auction,1.88%,,2.18%,2024-07-18 17:00:00
+"Thursday, July 18, 2024",17:45,USD,,Fed Logan Speaks,,,,2024-07-18 17:45:00
+"Thursday, July 18, 2024",20:00,USD,,"US Foreign Buying, T-bonds (May)",45.90B,,76.50B,2024-07-18 20:00:00
+"Thursday, July 18, 2024",20:00,USD,,Overall Net Capital Flow (May),15.80B,,64.20B,2024-07-18 20:00:00
+"Thursday, July 18, 2024",20:00,USD,,TIC Net Long-Term Transactions (May),-54.6B,98.4B,123.3B,2024-07-18 20:00:00
+"Thursday, July 18, 2024",20:00,USD,,TIC Net Long-Term Transactions including Swaps (May),-54.60B,,123.30B,2024-07-18 20:00:00
+"Thursday, July 18, 2024",20:30,USD,,Fed's Balance Sheet,"7,208B",,"7,224B",2024-07-18 20:30:00
+"Thursday, July 18, 2024",20:30,USD,,Reserve Balances with Federal Reserve Banks,3.322T,,3.341T,2024-07-18 20:30:00
+"Thursday, July 18, 2024",22:05,USD,,FOMC Member Daly Speaks,,,,2024-07-18 22:05:00
+"Thursday, July 18, 2024",23:45,USD,,FOMC Member Bowman Speaks,,,,2024-07-18 23:45:00
+"Friday, July 19, 2024",14:40,USD,,FOMC Member Williams Speaks,,,,2024-07-19 14:40:00
+"Friday, July 19, 2024",16:45,USD,,FOMC Member Bostic Speaks,,,,2024-07-19 16:45:00
+"Friday, July 19, 2024",17:00,USD,,U.S. Baker Hughes Oil Rig Count,477,,478,2024-07-19 17:00:00
+"Friday, July 19, 2024",17:00,USD,,U.S. Baker Hughes Total Rig Count,586,,584,2024-07-19 17:00:00
+"Friday, July 19, 2024",19:30,USD,,CFTC Aluminium speculative net positions,2.2K,,2.2K,2024-07-19 19:30:00
+"Friday, July 19, 2024",19:30,USD,,CFTC Copper speculative net positions,56.0K,,56.0K,2024-07-19 19:30:00
+"Friday, July 19, 2024",19:30,USD,,CFTC Corn speculative net positions,-238.8K,,-239.9K,2024-07-19 19:30:00
+"Friday, July 19, 2024",19:30,USD,,CFTC Crude Oil speculative net positions,287.6K,,283.9K,2024-07-19 19:30:00
+"Friday, July 19, 2024",19:30,USD,,CFTC Gold speculative net positions,254.8K,,254.8K,2024-07-19 19:30:00
+"Friday, July 19, 2024",19:30,USD,,CFTC Nasdaq 100 speculative net positions,5.2K,,5.2K,2024-07-19 19:30:00
+"Friday, July 19, 2024",19:30,USD,,CFTC Natural Gas speculative net positions,-93.5K,,-105.5K,2024-07-19 19:30:00
+"Friday, July 19, 2024",19:30,USD,,CFTC S&P 500 speculative net positions,-55.0K,,-55.0K,2024-07-19 19:30:00
+"Friday, July 19, 2024",19:30,USD,,CFTC Silver speculative net positions,61.1K,,61.1K,2024-07-19 19:30:00
+"Friday, July 19, 2024",19:30,USD,,CFTC Soybeans speculative net positions,-161.5K,,-150.2K,2024-07-19 19:30:00
+"Friday, July 19, 2024",19:30,USD,,CFTC Wheat speculative net positions,-36.1K,,-34.8K,2024-07-19 19:30:00
+"Monday, July 22, 2024",12:30,USD,,Chicago Fed National Activity (Jun),0.05,-0.09,0.23,2024-07-22 12:30:00
+"Monday, July 22, 2024",15:30,USD,,3-Month Bill Auction,5.19%,,5.20%,2024-07-22 15:30:00
+"Monday, July 22, 2024",15:30,USD,,6-Month Bill Auction,4.99%,,4.99%,2024-07-22 15:30:00
+"Tuesday, July 23, 2024",12:55,USD,,Redbook (YoY),4.90%,,4.80%,2024-07-23 12:55:00
+"Tuesday, July 23, 2024",14:00,USD,,Existing Home Sales (Jun),3.89M,3.99M,4.11M,2024-07-23 14:00:00
+"Tuesday, July 23, 2024",14:00,USD,,Existing Home Sales (MoM) (Jun),-5.40%,,-0.70%,2024-07-23 14:00:00
+"Tuesday, July 23, 2024",14:00,USD,,Richmond Manufacturing Index (Jul),-17,-7,-10,2024-07-23 14:00:00
+"Tuesday, July 23, 2024",14:00,USD,,Richmond Manufacturing Shipments (Jul),-21,,-9,2024-07-23 14:00:00
+"Tuesday, July 23, 2024",14:00,USD,,Richmond Services Index (Jul),5,,-7,2024-07-23 14:00:00
+"Tuesday, July 23, 2024",17:00,USD,,2-Year Note Auction,4.43%,,4.71%,2024-07-23 17:00:00
+"Tuesday, July 23, 2024",17:00,USD,,M2 Money Supply (MoM) (Jun),21.03T,,20.96T,2024-07-23 17:00:00
+"Tuesday, July 23, 2024",20:30,USD,,API Weekly Crude Oil Stock,-3.900M,-2.470M,-4.440M,2024-07-23 20:30:00
+"Wednesday, July 24, 2024",8:05,USD,,Fed Logan Speaks,,,,2024-07-24 08:05:00
+"Wednesday, July 24, 2024",11:00,USD,,MBA 30-Year Mortgage Rate,6.82%,,6.87%,2024-07-24 11:00:00
+"Wednesday, July 24, 2024",11:00,USD,,MBA Mortgage Applications (WoW),-2.20%,,3.90%,2024-07-24 11:00:00
+"Wednesday, July 24, 2024",11:00,USD,,MBA Purchase Index,134.8,,140.4,2024-07-24 11:00:00
+"Wednesday, July 24, 2024",11:00,USD,,Mortgage Market Index,209.3,,214.1,2024-07-24 11:00:00
+"Wednesday, July 24, 2024",11:00,USD,,Mortgage Refinance Index,614.9,,613,2024-07-24 11:00:00
+"Wednesday, July 24, 2024",12:30,USD,,Building Permits (MoM),3.90%,3.40%,-2.80%,2024-07-24 12:30:00
+"Wednesday, July 24, 2024",12:30,USD,,Building Permits,1.454M,1.446M,1.399M,2024-07-24 12:30:00
+"Wednesday, July 24, 2024",12:30,USD,,Goods Trade Balance (Jun),-96.84B,-98.80B,-99.40B,2024-07-24 12:30:00
+"Wednesday, July 24, 2024",12:30,USD,,Retail Inventories Ex Auto (Jun),0.20%,,-0.10%,2024-07-24 12:30:00
+"Wednesday, July 24, 2024",12:30,USD,,Wholesale Inventories (MoM),0.20%,0.50%,0.60%,2024-07-24 12:30:00
+"Wednesday, July 24, 2024",13:45,USD,,S&P Global US Manufacturing PMI (Jul),49.5,51.7,51.6,2024-07-24 13:45:00
+"Wednesday, July 24, 2024",13:45,USD,,S&P Global Composite PMI (Jul),55,54.2,54.8,2024-07-24 13:45:00
+"Wednesday, July 24, 2024",13:45,USD,,S&P Global Services PMI (Jul),56,54.7,55.3,2024-07-24 13:45:00
+"Wednesday, July 24, 2024",14:00,USD,,New Home Sales (MoM) (Jun),-0.60%,,-14.90%,2024-07-24 14:00:00
+"Wednesday, July 24, 2024",14:00,USD,,New Home Sales (Jun),617K,639K,621K,2024-07-24 14:00:00
+"Wednesday, July 24, 2024",14:30,USD,,Crude Oil Inventories,-3.741M,-2.600M,-4.870M,2024-07-24 14:30:00
+"Wednesday, July 24, 2024",14:30,USD,,EIA Refinery Crude Runs (WoW),-0.521M,,-0.181M,2024-07-24 14:30:00
+"Wednesday, July 24, 2024",14:30,USD,,Crude Oil Imports,-0.388M,,0.312M,2024-07-24 14:30:00
+"Wednesday, July 24, 2024",14:30,USD,,Cushing Crude Oil Inventories,-1.708M,,-0.875M,2024-07-24 14:30:00
+"Wednesday, July 24, 2024",14:30,USD,,Distillate Fuel Production,-0.292M,,0.101M,2024-07-24 14:30:00
+"Wednesday, July 24, 2024",14:30,USD,,EIA Weekly Distillates Stocks,-2.753M,,3.454M,2024-07-24 14:30:00
+"Wednesday, July 24, 2024",14:30,USD,,Gasoline Production,0.664M,,-0.751M,2024-07-24 14:30:00
+"Wednesday, July 24, 2024",14:30,USD,,Heating Oil Stockpiles,-0.489M,,0.252M,2024-07-24 14:30:00
+"Wednesday, July 24, 2024",14:30,USD,,EIA Weekly Refinery Utilization Rates (WoW),-2.10%,,-1.70%,2024-07-24 14:30:00
+"Wednesday, July 24, 2024",14:30,USD,,Gasoline Inventories,-5.572M,,3.328M,2024-07-24 14:30:00
+"Wednesday, July 24, 2024",16:00,USD,,Atlanta Fed GDPNow (Q2),2.60%,2.70%,2.70%,2024-07-24 16:00:00
+"Wednesday, July 24, 2024",17:00,USD,,5-Year Note Auction,4.12%,,4.33%,2024-07-24 17:00:00
+"Wednesday, July 24, 2024",20:05,USD,,Fed Logan Speaks,,,,2024-07-24 20:05:00
+"Wednesday, July 24, 2024",20:05,USD,,FOMC Member Bowman Speaks,,,,2024-07-24 20:05:00
+"Thursday, July 25, 2024",0:00,USD,,U.S. President Biden Speaks,,,,2024-07-25 00:00:00
+"Thursday, July 25, 2024",12:30,USD,,Continuing Jobless Claims,"1,851K","1,860K","1,860K",2024-07-25 12:30:00
+"Thursday, July 25, 2024",12:30,USD,,Core Durable Goods Orders (MoM) (Jun),0.50%,0.20%,-0.10%,2024-07-25 12:30:00
+"Thursday, July 25, 2024",12:30,USD,,Core PCE Prices (Q2),2.90%,2.70%,3.70%,2024-07-25 12:30:00
+"Thursday, July 25, 2024",12:30,USD,,Durable Goods Orders (MoM) (Jun),-6.60%,0.30%,0.10%,2024-07-25 12:30:00
+"Thursday, July 25, 2024",12:30,USD,,Durables Excluding Defense (MoM) (Jun),-7.00%,,-0.20%,2024-07-25 12:30:00
+"Thursday, July 25, 2024",12:30,USD,,GDP (QoQ) (Q2),2.80%,2.00%,1.40%,2024-07-25 12:30:00
+"Thursday, July 25, 2024",12:30,USD,,GDP Price Index (QoQ) (Q2),2.30%,2.60%,3.10%,2024-07-25 12:30:00
+"Thursday, July 25, 2024",12:30,USD,,GDP Sales (Q2),2.00%,,1.80%,2024-07-25 12:30:00
+"Thursday, July 25, 2024",12:30,USD,,Goods Orders Non Defense Ex Air (MoM) (Jun),1.00%,0.20%,-0.90%,2024-07-25 12:30:00
+"Thursday, July 25, 2024",12:30,USD,,Initial Jobless Claims,235K,237K,245K,2024-07-25 12:30:00
+"Thursday, July 25, 2024",12:30,USD,,Jobless Claims 4-Week Avg.,235.50K,,235.25K,2024-07-25 12:30:00
+"Thursday, July 25, 2024",12:30,USD,,PCE Prices (Q2),2.60%,,3.40%,2024-07-25 12:30:00
+"Thursday, July 25, 2024",12:30,USD,,Real Consumer Spending (Q2),2.30%,,1.50%,2024-07-25 12:30:00
+"Thursday, July 25, 2024",14:30,USD,,Natural Gas Storage,22B,13B,10B,2024-07-25 14:30:00
+"Thursday, July 25, 2024",15:00,USD,,KC Fed Composite Index (Jul),-13,,-8,2024-07-25 15:00:00
+"Thursday, July 25, 2024",15:00,USD,,KC Fed Manufacturing Index (Jul),-12,,-11,2024-07-25 15:00:00
+"Thursday, July 25, 2024",15:30,USD,,4-Week Bill Auction,5.29%,,5.27%,2024-07-25 15:30:00
+"Thursday, July 25, 2024",15:30,USD,,8-Week Bill Auction,5.26%,,5.26%,2024-07-25 15:30:00
+"Thursday, July 25, 2024",17:00,USD,,7-Year Note Auction,4.16%,,4.28%,2024-07-25 17:00:00
+"Thursday, July 25, 2024",20:30,USD,,Fed's Balance Sheet,"7,205B",,"7,208B",2024-07-25 20:30:00
+"Thursday, July 25, 2024",20:30,USD,,Reserve Balances with Federal Reserve Banks,3.276T,,3.322T,2024-07-25 20:30:00
+"Friday, July 26, 2024",12:30,USD,,Core PCE Price Index (MoM) (Jun),0.20%,0.20%,0.10%,2024-07-26 12:30:00
+"Friday, July 26, 2024",12:30,USD,,Core PCE Price Index (YoY) (Jun),2.60%,2.50%,2.60%,2024-07-26 12:30:00
+"Friday, July 26, 2024",12:30,USD,,PCE price index (MoM) (Jun),0.10%,0.10%,0.00%,2024-07-26 12:30:00
+"Friday, July 26, 2024",12:30,USD,,PCE Price index (YoY) (Jun),2.50%,2.50%,2.60%,2024-07-26 12:30:00
+"Friday, July 26, 2024",12:30,USD,,Personal Income (MoM) (Jun),0.20%,0.40%,0.40%,2024-07-26 12:30:00
+"Friday, July 26, 2024",12:30,USD,,Personal Spending (MoM) (Jun),0.30%,0.30%,0.40%,2024-07-26 12:30:00
+"Friday, July 26, 2024",12:30,USD,,Real Personal Consumption (MoM) (Jun),0.20%,,0.40%,2024-07-26 12:30:00
+"Friday, July 26, 2024",13:00,USD,,Dallas Fed PCE (Jun),1.70%,,2.60%,2024-07-26 13:00:00
+"Friday, July 26, 2024",14:00,USD,,Michigan 1-Year Inflation Expectations (Jul),2.90%,2.90%,3.00%,2024-07-26 14:00:00
+"Friday, July 26, 2024",14:00,USD,,Michigan 5-Year Inflation Expectations (Jul),3.00%,2.90%,3.00%,2024-07-26 14:00:00
+"Friday, July 26, 2024",14:00,USD,,Michigan Consumer Expectations (Jul),68.8,67.2,69.6,2024-07-26 14:00:00
+"Friday, July 26, 2024",14:00,USD,,Michigan Consumer Sentiment (Jul),66.4,66,68.2,2024-07-26 14:00:00
+"Friday, July 26, 2024",14:00,USD,,Michigan Current Conditions (Jul),62.7,64.1,65.9,2024-07-26 14:00:00
+"Friday, July 26, 2024",14:30,USD,,Atlanta Fed GDPNow (Q3),2.80%,,,2024-07-26 14:30:00
+"Friday, July 26, 2024",17:00,USD,,U.S. Baker Hughes Oil Rig Count,482,,477,2024-07-26 17:00:00
+"Friday, July 26, 2024",17:00,USD,,U.S. Baker Hughes Total Rig Count,589,,586,2024-07-26 17:00:00
+"Friday, July 26, 2024",19:30,USD,,CFTC Aluminium speculative net positions,2.8K,,2.2K,2024-07-26 19:30:00
+"Friday, July 26, 2024",19:30,USD,,CFTC Copper speculative net positions,42.2K,,56.0K,2024-07-26 19:30:00
+"Friday, July 26, 2024",19:30,USD,,CFTC Corn speculative net positions,-222.0K,,-238.8K,2024-07-26 19:30:00
+"Friday, July 26, 2024",19:30,USD,,CFTC Crude Oil speculative net positions,276.0K,,287.6K,2024-07-26 19:30:00
+"Friday, July 26, 2024",19:30,USD,,CFTC Gold speculative net positions,273.1K,,254.8K,2024-07-26 19:30:00
+"Friday, July 26, 2024",19:30,USD,,CFTC Nasdaq 100 speculative net positions,-0.6K,,5.2K,2024-07-26 19:30:00
+"Friday, July 26, 2024",19:30,USD,,CFTC Natural Gas speculative net positions,-88.4K,,-93.5K,2024-07-26 19:30:00
+"Friday, July 26, 2024",19:30,USD,,CFTC S&P 500 speculative net positions,-13.2K,,-55.0K,2024-07-26 19:30:00
+"Friday, July 26, 2024",19:30,USD,,CFTC Silver speculative net positions,51.4K,,61.1K,2024-07-26 19:30:00
+"Friday, July 26, 2024",19:30,USD,,CFTC Soybeans speculative net positions,-138.4K,,-161.5K,2024-07-26 19:30:00
+"Friday, July 26, 2024",19:30,USD,,CFTC Wheat speculative net positions,-34.6K,,-36.1K,2024-07-26 19:30:00
+"Monday, July 29, 2024",14:30,USD,,Dallas Fed Mfg Business Index (Jul),-17.5,,-15.1,2024-07-29 14:30:00
+"Monday, July 29, 2024",15:30,USD,,3-Month Bill Auction,5.15%,,5.19%,2024-07-29 15:30:00
+"Monday, July 29, 2024",15:30,USD,,6-Month Bill Auction,4.93%,,4.99%,2024-07-29 15:30:00
+"Tuesday, July 30, 2024",12:55,USD,,Redbook (YoY),4.50%,,4.90%,2024-07-30 12:55:00
+"Tuesday, July 30, 2024",13:00,USD,,House Price Index (YoY) (May),5.70%,,6.50%,2024-07-30 13:00:00
+"Tuesday, July 30, 2024",13:00,USD,,House Price Index (MoM) (May),0.00%,0.20%,0.30%,2024-07-30 13:00:00
+"Tuesday, July 30, 2024",13:00,USD,,House Price Index (May),424.6,,424.7,2024-07-30 13:00:00
+"Tuesday, July 30, 2024",13:00,USD,,S&P/CS HPI Composite - 20 s.a. (MoM) (May),0.30%,0.30%,0.40%,2024-07-30 13:00:00
+"Tuesday, July 30, 2024",13:00,USD,,S&P/CS HPI Composite - 20 n.s.a. (MoM) (May),1.00%,,1.40%,2024-07-30 13:00:00
+"Tuesday, July 30, 2024",13:00,USD,,S&P/CS HPI Composite - 20 n.s.a. (YoY) (May),6.80%,6.50%,7.30%,2024-07-30 13:00:00
+"Tuesday, July 30, 2024",14:00,USD,,CB Consumer Confidence (Jul),100.3,99.7,97.8,2024-07-30 14:00:00
+"Tuesday, July 30, 2024",14:00,USD,,JOLTs Job Openings (Jun),8.184M,8.020M,8.230M,2024-07-30 14:00:00
+"Tuesday, July 30, 2024",14:30,USD,,Dallas Fed Services Revenues (Jul),7.7,,1.9,2024-07-30 14:30:00
+"Tuesday, July 30, 2024",14:30,USD,,Texas Services Sector Outlook (Jul),-0.1,,-4.1,2024-07-30 14:30:00
+"Tuesday, July 30, 2024",20:30,USD,,API Weekly Crude Oil Stock,-4.495M,,-3.900M,2024-07-30 20:30:00
+"Wednesday, July 31, 2024",11:00,USD,,MBA 30-Year Mortgage Rate,6.82%,,6.82%,2024-07-31 11:00:00
+"Wednesday, July 31, 2024",11:00,USD,,MBA Mortgage Applications (WoW),-3.90%,,-2.20%,2024-07-31 11:00:00
+"Wednesday, July 31, 2024",11:00,USD,,MBA Purchase Index,132.8,,134.8,2024-07-31 11:00:00
+"Wednesday, July 31, 2024",11:00,USD,,Mortgage Market Index,201.2,,209.3,2024-07-31 11:00:00
+"Wednesday, July 31, 2024",11:00,USD,,Mortgage Refinance Index,570.7,,614.9,2024-07-31 11:00:00
+"Wednesday, July 31, 2024",12:15,USD,,ADP Nonfarm Employment Change (Jul),122K,147K,155K,2024-07-31 12:15:00
+"Wednesday, July 31, 2024",12:30,USD,,Employment Benefits (QoQ) (Q2),1.00%,,1.10%,2024-07-31 12:30:00
+"Wednesday, July 31, 2024",12:30,USD,,Employment Cost Index (QoQ) (Q2),0.90%,1.00%,1.20%,2024-07-31 12:30:00
+"Wednesday, July 31, 2024",12:30,USD,,Employment Wages (QoQ) (Q2),0.90%,,1.10%,2024-07-31 12:30:00
+"Wednesday, July 31, 2024",13:45,USD,,Chicago PMI (Jul),45.3,44.8,47.4,2024-07-31 13:45:00
+"Wednesday, July 31, 2024",14:00,USD,,Pending Home Sales (MoM) (Jun),4.80%,1.40%,-1.90%,2024-07-31 14:00:00
+"Wednesday, July 31, 2024",14:00,USD,,Pending Home Sales Index (Jun),74.3,,70.9,2024-07-31 14:00:00
+"Wednesday, July 31, 2024",14:30,USD,,Crude Oil Inventories,-3.436M,-1.600M,-3.741M,2024-07-31 14:30:00
+"Wednesday, July 31, 2024",14:30,USD,,EIA Refinery Crude Runs (WoW),-0.257M,,-0.521M,2024-07-31 14:30:00
+"Wednesday, July 31, 2024",14:30,USD,,Crude Oil Imports,-0.651M,,-0.388M,2024-07-31 14:30:00
+"Wednesday, July 31, 2024",14:30,USD,,Cushing Crude Oil Inventories,-1.106M,,-1.708M,2024-07-31 14:30:00
+"Wednesday, July 31, 2024",14:30,USD,,Distillate Fuel Production,0.043M,,-0.292M,2024-07-31 14:30:00
+"Wednesday, July 31, 2024",14:30,USD,,EIA Weekly Distillates Stocks,1.534M,,-2.753M,2024-07-31 14:30:00
+"Wednesday, July 31, 2024",14:30,USD,,Gasoline Production,-0.205M,,0.664M,2024-07-31 14:30:00
+"Wednesday, July 31, 2024",14:30,USD,,Heating Oil Stockpiles,0.158M,,-0.489M,2024-07-31 14:30:00
+"Wednesday, July 31, 2024",14:30,USD,,EIA Weekly Refinery Utilization Rates (WoW),-1.50%,,-2.10%,2024-07-31 14:30:00
+"Wednesday, July 31, 2024",14:30,USD,,Gasoline Inventories,-3.665M,,-5.572M,2024-07-31 14:30:00
+"Wednesday, July 31, 2024",18:00,USD,,FOMC Statement,,,,2024-07-31 18:00:00
+"Wednesday, July 31, 2024",18:00,USD,,Fed Interest Rate Decision,5.50%,5.50%,5.50%,2024-07-31 18:00:00
+"Wednesday, July 31, 2024",18:30,USD,,FOMC Press Conference,,,,2024-07-31 18:30:00

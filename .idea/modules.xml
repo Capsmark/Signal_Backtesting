@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Economic_Data/.idea/Economic_Data.iml" filepath="$PROJECT_DIR$/../Economic_Data/.idea/Economic_Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RSI Strategy/.idea/RSI Strategy.iml" filepath="$PROJECT_DIR$/../RSI Strategy/.idea/RSI Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Signal Backtesting.iml" filepath="$PROJECT_DIR$/.idea/Signal Backtesting.iml" />
       <module fileurl="file://$PROJECT_DIR$/../SignalModel/.idea/SignalModel.iml" filepath="$PROJECT_DIR$/../SignalModel/.idea/SignalModel.iml" />
     </modules>
