@@ -1,8 +1,0 @@
-Scenario,Period,Total Trades,Total Wins,Total Losses,Win Rate,ROI,NAV,Max Drawdown
-"TP=0.014, SL=0.011, Offset=60, pctChange=0.0002, TimeLimit=120, IgnoreBefore=720, IgnoreAfter=0",2024-01,29,13,16,0.448275862,0.376969695,100376.9697,15744.58291
-"TP=0.014, SL=0.011, Offset=60, pctChange=0.0002, TimeLimit=120, IgnoreBefore=720, IgnoreAfter=0",2024-02,18,7,11,0.388888889,-2.002210689,98367.21128,20330.70812
-"TP=0.014, SL=0.011, Offset=60, pctChange=0.0002, TimeLimit=120, IgnoreBefore=720, IgnoreAfter=0",2024-03,33,16,17,0.484848485,3.50092642,101810.975,33559.90431
-"TP=0.014, SL=0.011, Offset=60, pctChange=0.0002, TimeLimit=120, IgnoreBefore=720, IgnoreAfter=0",2024-04,34,19,15,0.558823529,10.32286177,112320.7812,545.9716749
-"TP=0.014, SL=0.011, Offset=60, pctChange=0.0002, TimeLimit=120, IgnoreBefore=720, IgnoreAfter=0",2024-05,27,13,14,0.481481481,2.622241721,115266.1036,1701.968777
-"TP=0.014, SL=0.011, Offset=60, pctChange=0.0002, TimeLimit=120, IgnoreBefore=720, IgnoreAfter=0",2024-06,25,15,10,0.6,10.49541269,127363.7568,1420.419189
-"TP=0.014, SL=0.011, Offset=60, pctChange=0.0002, TimeLimit=120, IgnoreBefore=720, IgnoreAfter=0",Overall,166,83,83,0.5,27.36375683,127363.7568,107913.706
