@@ -1,3 +1,0 @@
-Scenario,Period,Total Trades,Total Wins,Total Losses,Win Rate,ROI,NAV,Max Drawdown
-"TP=0.014, SL=0.01, Offset=80, pctChange=0.0002, TimeLimit=120, IgnoreBefore=540, IgnoreAfter=0",2024-07,28,17,11,0.6071428571428571,11.203495784202692,111203.49578420269,0.0
-"TP=0.014, SL=0.01, Offset=80, pctChange=0.0002, TimeLimit=120, IgnoreBefore=540, IgnoreAfter=0",Overall,28,17,11,0.6071428571428571,11.203495784202692,111203.49578420269,0.0
