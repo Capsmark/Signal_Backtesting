@@ -550,11 +550,11 @@ num_orders = 2
 pct_margin_orders = [0.5, 0.5]
 
 # Price range percentage for subsequent orders
-pct_order_range = [0.005]  # E.g., second order is 1% below, third is 2% below first
+pct_order_range = [0.01]  # E.g., second order is 1% below, third is 2% below first
 
 # Take-Profit and Stop-Loss percentages
-tp_list = [0.01, 0.012]  # TP for each order
-sl_list = [0.01, 0.012]  # SL for each order
+tp_list = [0.01, 0.011]  # TP for each order
+sl_list = [0.01, 0.011]  # SL for each order
 
 # Custom parameters (could be set to None or meaningful values based on your strategy)
 entry_time_offset = 0
